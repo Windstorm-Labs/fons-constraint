@@ -2,7 +2,7 @@
 
 **Paper 1 Experiments & Code**
 
-📋 Planned
+✅ Published
 
 **Paper Publication:** https://github.com/Windstorm-Institute/fons-constraint  
 **Windstorm Institute:** https://windstorminstitute.org
@@ -33,15 +33,15 @@ N/A
 
 | # | Paper | Status | Key Result |
 |---|-------|--------|------------|
-| 1 | [Fons Constraint](./fons-constraint) | 📋 Planned | 64-codon alphabet |
-| 2 | [Receiver-Limited Floor](./receiver-limited-floor) | ✅ Complete | Vocab-independent BPT |
-| 3 | [Throughput Basin](./throughput-basin) | 📋 Planned | 31-system convergence |
-| 4 | [Dissipative Decoder](./dissipative-decoder) | 📋 Planned | Regime A/B analysis |
-| 5 | [Serial Decoding Basin τ](./serial-decoding-basin) | 📋 Planned | τ = 4.16 ± 0.19 bits |
-| 6 | [Inherited Constraint](./inherited-constraint) | 📋 Planned | AI inherits biology |
-| 7 | [AGI Extensions](./agi-extensions) | 🚧 In Progress | Data vs architecture |
+| 1 | [Fons Constraint](https://github.com/Windstorm-Labs/fons-constraint) | ✅ Published | 64-codon alphabet |
+| 2 | [Receiver-Limited Floor](https://github.com/Windstorm-Labs/receiver-limited-floor) | ✅ Complete | Vocab-independent BPT |
+| 3 | [Throughput Basin](https://github.com/Windstorm-Labs/throughput-basin) | ✅ Published | 31-system convergence |
+| 4 | [Dissipative Decoder](https://github.com/Windstorm-Labs/dissipative-decoder) | ✅ Published | Regime A/B analysis |
+| 5 | [Serial Decoding Basin τ](https://github.com/Windstorm-Labs/serial-decoding-basin) | ✅ Published | τ = 4.16 ± 0.19 bits |
+| 6 | [Inherited Constraint](https://github.com/Windstorm-Labs/inherited-constraint) | ✅ Published | AI inherits biology |
+| 7 | [AGI Extensions](https://github.com/Windstorm-Labs/agi-extensions) | 🚧 In Progress | Data vs architecture |
 
-Legend: ✅ Complete | 🚧 In Progress | 📋 Planned
+Legend: ✅ Complete (paper + code) | ✅ Published (paper on Zenodo) | 🚧 In Progress
 
 
 
