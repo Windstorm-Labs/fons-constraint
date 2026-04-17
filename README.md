@@ -11,22 +11,17 @@
 
 **[Windstorm-Institute/fons-constraint](https://github.com/Windstorm-Institute/fons-constraint)** — paper PDF, article HTML, Zenodo DOI
 
-## Quick Start
+**Website article:** [windstorminstitute.org/articles/fons-constraint.html](https://windstorminstitute.org/articles/fons-constraint.html)
 
-```bash
-git clone https://github.com/Windstorm-Labs/fons-constraint.git
-cd fons-constraint
-pip install -r requirements.txt  # if present
-# See code/ or individual scripts for experiment instructions
-```
+## What's in this repo
 
-## Hardware
+This Labs repository is **paper-only** — the experimental code from Paper 1's original development cycle (early 2026) was not migrated into a per-paper Labs repo. For the published manuscript, methods, figures, and Zenodo archive, see the canonical publication repo above. For the closest-known code from this era, see the archived [Windstorm-Labs/throughput-experiments](https://github.com/Windstorm-Labs/throughput-experiments) monorepo.
+
+## Hardware (when this paper's experiments were originally run)
 
 - **GPU:** NVIDIA RTX 5090 (32 GB VRAM)
 - **OS:** Ubuntu 24.04
 - **Python:** 3.11+
-
-See individual experiment scripts for runtime estimates and specific dependencies.
 
 ---
 
