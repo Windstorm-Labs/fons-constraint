@@ -37,7 +37,7 @@ This Labs repository is **paper-only** — the experimental code from Paper 1's 
 | 6 | [The Inherited Constraint](https://github.com/Windstorm-Institute/inherited-constraint) | [10.5281/zenodo.19432911](https://doi.org/10.5281/zenodo.19432911) |
 | 7 | [The Throughput Basin Origin](https://github.com/Windstorm-Institute/throughput-basin-origin) | [10.5281/zenodo.19498582](https://doi.org/10.5281/zenodo.19498582) |
 | 8 | [The Vision Basin](https://github.com/Windstorm-Institute/vision-basin) | [10.5281/zenodo.19672827](https://doi.org/10.5281/zenodo.19672827) |
-| 9 | [The Hardware Basin](https://github.com/Windstorm-Institute/hardware-basin) | Preprint (DOI pending) |
+| 9 | [The Hardware Basin](https://github.com/Windstorm-Institute/hardware-basin) | [10.5281/zenodo.19672921](https://doi.org/10.5281/zenodo.19672921) |
 
 **Website:** [windstorminstitute.org](https://windstorminstitute.org)
 
