@@ -36,7 +36,7 @@ This Labs repository is **paper-only** — the experimental code from Paper 1's 
 | 5 | [The Dissipative Decoder](https://github.com/Windstorm-Institute/dissipative-decoder) | [10.5281/zenodo.19433048](https://doi.org/10.5281/zenodo.19433048) |
 | 6 | [The Inherited Constraint](https://github.com/Windstorm-Institute/inherited-constraint) | [10.5281/zenodo.19432911](https://doi.org/10.5281/zenodo.19432911) |
 | 7 | [The Throughput Basin Origin](https://github.com/Windstorm-Institute/throughput-basin-origin) | [10.5281/zenodo.19498582](https://doi.org/10.5281/zenodo.19498582) |
-| 8 | [The Vision Basin](https://github.com/Windstorm-Institute/vision-basin) | Preprint (DOI pending) |
+| 8 | [The Vision Basin](https://github.com/Windstorm-Institute/vision-basin) | [10.5281/zenodo.19672827](https://doi.org/10.5281/zenodo.19672827) |
 | 9 | [The Hardware Basin](https://github.com/Windstorm-Institute/hardware-basin) | Preprint (DOI pending) |
 
 **Website:** [windstorminstitute.org](https://windstorminstitute.org)
